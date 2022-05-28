@@ -10,7 +10,7 @@
 --- 
 
 <p align="center">
-    <a href="https://discord.com/users/553780289869185034">
+    <a href="https://discord.com/users/650060651602903040">
         <img alt="My discord" src="https://lanyard.cnrad.dev/api/553780289869185034?hideBadges=true&hideStatus=true">
     </a>
 </p>
